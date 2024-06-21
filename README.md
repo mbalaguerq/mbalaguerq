@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mbalaguerq
 - 👀 I’m interested in keep learning
-- 🌱 I’m currently learning c# on Ilerna BCN
+- 🌱 I’m currently develping with larabel blade and vue projects and i enjoy it!
 - 📫 How to reach me: marc.balaguer.quintana@gmail.com
 
 <!---
